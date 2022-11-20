@@ -5,6 +5,9 @@ public class myclass {
 	
 		System.out.println("enter the rollnumber");
 		System.out.println("Ranjith");
+		System.out.println("j");
+			
+		
 	}
 	
 	public static void main(String[] args) {
