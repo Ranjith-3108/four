@@ -2,9 +2,9 @@ package p1;
 
 public class myclass {
 	public void rollNumber() {
-		// TODO Auto-generated method stub
+	
 		System.out.println("enter the rollnumber");
-
+		System.out.println("Ranjith");
 	}
 	
 	public static void main(String[] args) {
